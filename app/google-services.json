@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "950085399852",
+    "project_id": "test-fb1-3d347",
+    "storage_bucket": "test-fb1-3d347.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950085399852:android:b2d3ca864760b337b62889",
+        "android_client_info": {
+          "package_name": "com.example.testfb1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950085399852-l3qd97k1f5mqreqr2db75vpjdqlh2fr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeTEAjjSWTJbnA2vF0jgBRtWlb4m8l-VU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950085399852-l3qd97k1f5mqreqr2db75vpjdqlh2fr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950085399852:android:219f75ca8350aea4b62889",
+        "android_client_info": {
+          "package_name": "com.minhlt.getwifiscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950085399852-l3qd97k1f5mqreqr2db75vpjdqlh2fr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeTEAjjSWTJbnA2vF0jgBRtWlb4m8l-VU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950085399852-l3qd97k1f5mqreqr2db75vpjdqlh2fr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

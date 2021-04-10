@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GetWifi</string>
+    <string name="repeat_tutorial">Repeat Tutorial</string>
+    <string name="get_wifi_tutorial">GetWifi Tutorial</string>
+    <string name="txt_setting">Setting</string>
+    <string name="txt_progress_bar">Progress Tutorial</string>
+    <string name="repeating">Repeating</string>
+    <string name="stop_repeating">Stop Repeat</string>
+    <string name="txt_setting_num_of_wifi">Số lượng wifi cần lấy</string>
+    <string name="txt_setting_hint_text_num_of_wifi">"Số lượng wifi "</string>
+    <string name="txt_setting_time_out_label">Số lần muốn quét:</string>
+    <string name="txt_setting_hint_time_out">Số lần muốn quét</string>
+    <string name="txt_save_label">LƯU</string>
+    <string name="txt_setting_room">Room ID</string>
+    <string name="txt_setting_roomID">Nhập số phòng</string>
+</resources>
